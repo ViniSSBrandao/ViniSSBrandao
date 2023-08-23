@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Vinícius
 #### I am a Full-Stack Web Developer, always studying and improoving
-![I am a Full-Stack Web Developer, always studying and improoving](https://hostrider.com/images/tw.png](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
+![I am a Full-Stack Web Developer, always studying and improoving]([https://hostrider.com/images/tw.png](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb])
 
 
 Skills: REACT / JS / HTML / CSS / TypeScript / MongoDB / PostgreSQL
