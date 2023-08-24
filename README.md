@@ -19,6 +19,7 @@
 # 📊 GitHub Stats:
 
 [![TeuPremium's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=teupremium&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuPremium&theme=dark&hide_langs_below=1" />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teupremium&theme=onedark&hide_border=false)<br/>
 
 
