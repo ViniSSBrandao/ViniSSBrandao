@@ -1,12 +1,12 @@
-### <h1> Hi there 👋, My name is Vinícius</h1>
-#### I am a Full-Stack Web Developer, always studying and improoving
+### <h1> Hi there 👋, I am Vinícius</h1>
+#### I am a Full-Stack Developer from Brazil, I love working and tinkering with code and math and that's what I do for the most part. I am always studying and always improoving, refining the process every day.
 ![I am a Full-Stack Web Developer, always studying and improoving](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
 
 
-- 🔭 I’m currently working on old unfinished Full-Stack projects and python  projects  
-- 🌱 I’m currently learning I am currently learning python and machine learning. 
+- 🔭 I’m currently working on a MERN stack project and python science projects.   
+- 🌱 I am currently learning python, machine learning and OOP. 
 - 📫 How to reach me: vinicius.brandaot@gmail.com or my linkedin 
-- ⚡ Fun fact: I love cats and Riding the bicycle on sundays   
+  
 
 
 
