@@ -3,7 +3,7 @@
 ![I am a Full-Stack Web Developer, always studying and improoving](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
 
 
-- 🔭 I’m currently working on a MERN stack project and python science projects.   
+- 🔭 I’m currently working on a MERN stack project and python projects.   
 - 🌱 I am currently learning python, machine learning and OOP. 
 - 📫 How to reach me: vinicius.brandaot@gmail.com or my linkedin 
   
