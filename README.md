@@ -1,30 +1,45 @@
-### <h1> Hi there 👋, I am Vinícius</h1>
-#### I am a Full-Stack Developer from Brazil, I love working and tinkering with code and math and that's what I do for the most part. I am always studying and always improoving, refining the process every day.
-![I am a Full-Stack Web Developer, always studying and improoving](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
+# Hi there! 👋
+
+I'm a backend software engineer at [Horus Edge](https://horusedge.com/), currently building the core systems for a pre-release Web3 analytics platform. My main focus is turning complex EVM on-chain data into clean, structured, and usable intelligence through reliable data pipelines and backend infrastructure.
+
+As part of a small engineering team, I regularly contribute across the full lifecycle of a feature from data ingestion and API development to deployment, production troubleshooting, and operational support.
+
+In a small startup environment, I've often had to operate beyond traditional backend development, taking ownership of issues across infrastructure, integrations, and production systems when needed.
+
+### What I'm working on
+
+- **Blockchain Data Processing**: Building systems that ingest, index, and transform complex on-chain EVM data into structured, queryable formats using Alchemy webhooks and custom indexing logic.
+- **Backend Systems**: Developing and maintaining high-performance APIs with FastAPI, implementing rate limiting, caching strategies, and reliable data flows.
+- **Infrastructure & Operations**: Supporting production systems through deployment, Linux-based troubleshooting, log analysis, reverse proxy configuration, monitoring, and cloud service integrations.
+- **Integrations**: Implementing authentication (wallet-based sign-in and Firebase), Stripe subscription and payment logic, and various internal tools.
+- **Additional Areas**: Occasionally contributing small frontend features, reviewing data flows for compliance considerations, and supporting basic ML-related components.
+
+I focus primarily on backend engineering, data systems, and blockchain analytics.
+
+### Main Tech Stack
+   
+   **Languages & Frameworks**
+   
+   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+   **Databases & Caching**
+      
+   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+   **Tools & Infrastructure**
+   
+   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+   ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=Stripe&logoColor=white)
+   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
--  I’m currently working on Onchainwallets. Mainly as back-end, and sometimes making full cycle tasks.    
-   How to reach me: vinicius.brandaot@gmail.com or my linkedin 
-  
+#### Outside of Work
 
+When I'm away from the keyboard, I enjoy exploring architecture around my city, working on electronics projects, modifying audio gear, and occasionally bringing old hardware back to life with a soldering iron.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ViniSSBrandao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/viniciusssb000//)  
-
-
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-
-<a href="https://github.com/ViniSSBrandao">
-  
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniSSBrandao&theme=dark&hide_langs_below=1" /><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ViniSSBrandao&theme=dark&hide_border=false)<br/>
-![](https://github-profile-trophy.vercel.app/?username=ViniSSBrandao&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ViniSSBrandao&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### Also consider
+Check out my older pinned repositories. They’re from a while back and not representative of what I work on today, but you're welcome to take a look if you want to see some of my previous code.
