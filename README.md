@@ -9,7 +9,7 @@ In a small startup environment, I've often had to operate beyond traditional bac
 ### What I'm working on
 
 - **Blockchain Data Processing**: Building systems that ingest, index, and transform complex on-chain EVM data into structured, queryable formats using Alchemy webhooks and custom indexing logic.
-- **Backend Systems**: Developing and maintaining high-performance APIs with FastAPI, implementing rate limiting, caching strategies, and reliable data flows.
+- **Backend Systems**: Developing and maintaining APIs with FastAPI, implementing rate limiting, caching strategies, and reliable data flows.
 - **Infrastructure & Operations**: Supporting production systems through deployment, Linux-based troubleshooting, log analysis, reverse proxy configuration, monitoring, and cloud service integrations.
 - **Integrations**: Implementing authentication (wallet-based sign-in and Firebase), Stripe subscription and payment logic, and various internal tools.
 - **Additional Areas**: Occasionally contributing small frontend features, reviewing data flows for compliance considerations, and supporting basic ML-related components.
