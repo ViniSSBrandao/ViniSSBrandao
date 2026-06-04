@@ -40,6 +40,3 @@ I focus primarily on backend engineering, data systems, and blockchain analytics
 #### Outside of Work
 
 When I'm away from the keyboard, I enjoy exploring architecture around my city, working on electronics projects, modifying audio gear, and occasionally bringing old hardware back to life with a soldering iron.
-
-#### Also consider
-Check out my older pinned repositories. They’re from a while back and not representative of what I work on today, but you're welcome to take a look if you want to see some of my previous code.
